@@ -8,11 +8,19 @@ all mint out in ~30 mins. feel free to grab some on [quixotic](https://quixotic.
 
 | no | prize | amount  | draw time | link | 
 |---|---|---|---| --- | 
-| 1|  1 $OP | 40  |  30 june |  oopslotto.xyz |
-| 2 | 4.20 $OP  | 20  |  30 june |   oopslotto.xyz |
-| 3 | 6.28 $OP | 10  | 30 june  |   oopslotto.xyz |
-| 4 | 32 $OP |  2 | 30 june  |   oopslotto.xyz |
-| 5 | 64 $OP |  1 | 30 june  |   oopslotto.xyz |
+| 1|  1 $OP | 40  |  30 june |  [oopslotto.xyz](https://oopslotto.xyz/) |
+| 2 | 4.20 $OP  | 20  |  30 june |   [oopslotto.xyz](https://oopslotto.xyz/) |
+| 3 | 6.28 $OP | 10  | 30 june  |   [oopslotto.xyz](https://oopslotto.xyz/)|
+| 4 | 32 $OP |  2 | 30 june  |   [oopslotto.xyz](https://oopslotto.xyz/) |
+| 5 | 64 $OP |  1 | 30 june  |   [oopslotto.xyz](https://oopslotto.xyz/) |
+| 6 | Naga Kid Whitelist |  10 | 22 june 8PM ICT  |   [Naga Kids by Naga DAO](https://www.facebook.com/nagadaonft/photos/a.105341851688875/365395999016791) |
+
+
+## quest - let's work on this and get more prize! 
+pls use #OopsWeDidItAgain when you tweet or show up in others community to show that we're from Oops lotto! 
+
+- "Join NagaDAO Discord & try to learn what we working for." - requested by [Naga DAO](https://discord.gg/nagadao)
+
 
 
 ## winner list
