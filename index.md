@@ -18,11 +18,12 @@ all mint out in ~30 mins. feel free to grab some on [quixotic](https://quixotic.
 ## winner list
 | no | prize | amount  | result |   
 |---|---|---|---|
-|   |   |   |   |   
+|  n/a |   |   |   |   
 
 ## rug list
 | no | prize | sponsor name |
 |---|---|---|
+|  n/a |   |   |   
 
 
 
