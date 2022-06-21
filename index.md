@@ -17,7 +17,7 @@ all mint out in ~30 mins. feel free to grab some on [quixotic](https://quixotic.
 
 
 ## quest - let's work on this and get more prize! 
-pls use #OopsWeDidItAgain when you tweet or show up in others community to show that we're from Oops lotto! 
+pls use #OopsWeDidItAgain when you post or show up in others community to show that we're from Oops lotto! 
 
 - "Join NagaDAO Discord & try to learn what we working for." - requested by [Naga DAO](https://discord.gg/nagadao)
 
