@@ -31,6 +31,6 @@ all mint out in ~30 mins. feel free to grab some on [quixotic](https://quixotic.
 
 ## how it works?
 
-we use a [smart contract](https://optimistic.etherscan.io/address/0xdbd534c712b9fbafced7343a273989adf8e25856) to detemine the winner.
+we use a [smart contract](https://optimistic.etherscan.io/address/0xfe77d91f622664ae91ed61c55325d096db94d652) to detemine the winner.
 this is semi-permissionless. anyone can add prize to the contract. but oopslotto.xyz will only PR project that fill this [form](https://forms.gle/oPtDVEjF5ucS2Y1S6) and maybe answer some question. 
 however, prize payout are not control by oopslotto.xyz team. we'll will verify the payout and add to either winner list or rug list. 
