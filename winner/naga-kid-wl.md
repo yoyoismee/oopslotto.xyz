@@ -2,7 +2,7 @@
 prize : whitelist for free mint naga kid x 10
 
 
-status : pending payout
+status : Done
 
 
 draw [transaction](https://optimistic.etherscan.io/tx/0xe92bdecffaad3d05177c0d0d295ec63afb82f9d719da2f8ab5c034e9895d123f#eventlog)
