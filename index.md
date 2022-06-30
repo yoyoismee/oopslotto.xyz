@@ -27,7 +27,8 @@ pls use #OopsWeDidItAgain when you post or show up in others community to show t
 
 | no | prize | amount  | result |   
 |---|---|---|--- |
-|  6 | Naga Kid Whitelist  | 10  | [here](/winner/naga-kid-wl)  |   
+|  6 | Naga Kid Whitelist  | 10  | [here](/winner/naga-kid-wl)  |
+|  1-5 | Oops lotto  | 73  | [here](/winner/oops)  |
 
 ## rug list
 
