@@ -1,4 +1,5 @@
 # oops lotta main prize!
+status : pending payout
 
 ## 1 $OP
 ### [transaction](https://optimistic.etherscan.io/tx/0x33c6433956e0497efa025f11851f7e9c5df0d1342449f1ec762ef9959a34ac5c)
