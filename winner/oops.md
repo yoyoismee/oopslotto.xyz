@@ -2,7 +2,8 @@
 status : pending payout
 
 ## 1 $OP
-### [transaction](https://optimistic.etherscan.io/tx/0x33c6433956e0497efa025f11851f7e9c5df0d1342449f1ec762ef9959a34ac5c)
+### draw [transaction](https://optimistic.etherscan.io/tx/0x33c6433956e0497efa025f11851f7e9c5df0d1342449f1ec762ef9959a34ac5c)
+### payout [transaction](https://optimistic.etherscan.io/tx/0x04047379c3108235e1f3a8286ce63f59f22f4081ac71c5975de8c6e33f53112d)
 ### winner
 0x2De966D9E3d116E5c7453ccc2087f6A5d908c95b
 0x54c96905c7848C01c2b402a24180A4278192301D
