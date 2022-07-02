@@ -47,7 +47,8 @@ status : pending payout
 0x21BF63C0418D4f1D13f884C50498B2259B321b43
 
 ## 4.20 $OP
-### [transaction](https://optimistic.etherscan.io/tx/0x5b8d0e2223c88c554d1b2662a0fb68ebb25e6d51a3766166537c2bb3d39ae5e1)
+### draw [transaction](https://optimistic.etherscan.io/tx/0x5b8d0e2223c88c554d1b2662a0fb68ebb25e6d51a3766166537c2bb3d39ae5e1)
+### payout [transaction](https://optimistic.etherscan.io/tx/0x1aa4d132467a25880098bab63e615c3b7501e7d6a0f60aef2b362495b8888bfc)
 ### winner
 0x03A52d720faa3a92Ae7926A6Af607fbFe84cDf5e
 0xd5Be83b342B5AD3D661Bc47D9531416A5ED94ede
