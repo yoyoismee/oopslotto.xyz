@@ -87,14 +87,14 @@ status : pending payout
 0x0EC21008236860e2432352C8D0AD312e72d95B3D
 
 ## 32 $OP
-### [transaction](https://optimistic.etherscan.io/tx/0xcccf702e01a482da89712e7c62720481535b3dc8c3b2615c68b08c6cf1850451)
+### draw [transaction](https://optimistic.etherscan.io/tx/0xcccf702e01a482da89712e7c62720481535b3dc8c3b2615c68b08c6cf1850451)
 ### payout [transaction](https://optimistic.etherscan.io/tx/0x623cb13c795461c92b60e814b1b79b3d2be6cf91f46a0de89f3f0e831befe239)
 ### winner
 0xcFa1Bf8CA39A89B6c0E9AFF55454B20e589c0dA0
 0xC37FfC52744B1436B026904Af5a213327638A0b9
 
 ## 64 $OP
-### [transaction](https://optimistic.etherscan.io/tx/0xcccf702e01a482da89712e7c62720481535b3dc8c3b2615c68b08c6cf1850451)
+### draw [transaction](https://optimistic.etherscan.io/tx/0xcccf702e01a482da89712e7c62720481535b3dc8c3b2615c68b08c6cf1850451)
 ### payout [transaction](https://optimistic.etherscan.io/tx/0x623cb13c795461c92b60e814b1b79b3d2be6cf91f46a0de89f3f0e831befe239)
 ### winner
 0x40a6Fb898DDFc89f275C033b5b1804A07FAfF0F4
